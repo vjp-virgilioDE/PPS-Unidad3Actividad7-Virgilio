@@ -1,4 +1,4 @@
-# PPS-Unidad3Actividad6-CSRF
+# PPS-Unidad3Actividad7-CSRF
  Explotación y Mitigación de Cross-Site Request Forgery (CSRF).
 ===
 Tenemos como objetivo:
@@ -270,7 +270,7 @@ Explicación de las correcciones:
 
 
 ---
-## ENTREGA
+## ![ENTREGA](Entrega.md)
 
 >__Realiza las operaciones indicadas__
 
